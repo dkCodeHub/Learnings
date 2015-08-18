@@ -1,0 +1,2 @@
+--Multiple Deletion with multiple checkbox and one single delete button
+http://stackoverflow.com/questions/18183266/knockoutjs-delete-multiple-items-using-checkbox-and-one-delete-button
